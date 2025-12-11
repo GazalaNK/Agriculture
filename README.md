@@ -1,0 +1,1 @@
+they are the models trained for predicting the types of seeds and type of soil type, it helps in agriculture they are the models trained for small dataset also can be done the same with large datasets 
